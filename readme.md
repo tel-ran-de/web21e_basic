@@ -1,3 +1,5 @@
-# Репозиторий вечерней группы 21
+## lesson-02
 
-Для просмотра кода выбери в выпадающем меню урок
+1. https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html
+2. https://javarush.ru/quests/lectures/questsyntaxpro.level14.lecture04
+3. modulo
