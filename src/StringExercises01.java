@@ -8,4 +8,5 @@ public class StringExercises01 {
     public static void helloName(String name) {
         System.out.println("Hello " + name + "!");
     }
+
 }
