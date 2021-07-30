@@ -1,3 +1,5 @@
+package hw;
+
 public class BodyMassIndex {
 
     public static void findBodyMassIndex(double height,

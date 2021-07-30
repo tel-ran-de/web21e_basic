@@ -1,3 +1,5 @@
+package hw;
+
 public class Square {
 
     public static void findPerimeterSquare(int siteSquare) {

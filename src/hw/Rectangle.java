@@ -1,3 +1,5 @@
+package hw;
+
 public class Rectangle {
     public static void findPerimeterRectangle(double siteOne, double siteTwo) {
         double result = 2 * (siteOne + siteTwo);

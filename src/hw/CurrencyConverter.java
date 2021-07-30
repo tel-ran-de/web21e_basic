@@ -1,3 +1,5 @@
+package hw;
+
 public class CurrencyConverter {
     public static void main(String[] args) {
         dollarToEuro(1000);

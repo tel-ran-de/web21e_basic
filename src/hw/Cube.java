@@ -1,3 +1,5 @@
+package hw;
+
 public class Cube {
     public static void findCubeArea(double siteCube) {
         // НЕ ПОНИМАЮ МАТЕМАТИКУ
